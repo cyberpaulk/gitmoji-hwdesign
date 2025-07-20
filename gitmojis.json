@@ -7,6 +7,14 @@
             "description":"Improve structure / format of the code",
             "name":"art",
             "semver":null
+        },
+        {
+            "emoji":"📝",
+            "entity":"&#x1f4dd;",
+            "code":":memo:",
+            "description":"Add or update documentation",
+            "name":"memo",
+            "semver":null
         }
     ]
 }
