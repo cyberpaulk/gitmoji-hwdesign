@@ -1,6 +1,118 @@
 {
     "gitmojis": [
         {
+            "emoji":"✨",
+            "entity":"&#x2728;",
+            "code":":sparkles:",
+            "description":"Introduce new features",
+            "name":"sparkles",
+            "semver":"major"
+        },
+        {
+            "emoji":"🚧",
+            "entity":"&#x1f6a7;",
+            "code":":construction:",
+            "description":"General RTL development",
+            "name":"construction",
+            "semver":"minor"
+        },
+        {
+            "emoji":"🐛",
+            "entity":"&#x1f41b;",
+            "code":":bug:",
+            "description":"Fix a bug",
+            "name":"bug",
+            "semver":"minor"
+        },
+        {
+            "emoji":"🚨",
+            "entity":"&#x1f6a8;",
+            "code":":rotating_light:",
+            "description":"Fix compiler / linter warnings",
+            "name":"rotating_light",
+            "semver":"minor"
+        },
+        {
+            "emoji":"⚡️",
+            "entity":"&#x26a1;",
+            "code":":zap:",
+            "description":"Timing / area optimizations",
+            "name":"zap",
+            "semver":"minor"
+        },
+        {
+            "emoji":"🔧",
+            "entity":"&#x1f527;",
+            "code":":wrench:",
+            "description":"Change configuration parameters / macros",
+            "name":"wrench",
+            "semver":"patch"
+        },
+        {
+            "emoji":"🚑️",
+            "entity":"&#128657;",
+            "code":":ambulance:",
+            "description":"Critical hotfix",
+            "name":"ambulance",
+            "semver":"minor"
+        },
+        {
+            "emoji":"🩹",
+            "entity":"&#x1FA79;",
+            "code":":adhesive_bandage:",
+            "description":"Upload a patch (diff)",
+            "name":"adhesive_bandage",
+            "semver":"patch"
+        },
+        {
+            "emoji":"⚗️",
+            "entity":"&#x2697;",
+            "code":":alembic:",
+            "description":"Perform experiments",
+            "name":"alembic",
+            "semver":null
+        },
+        {
+            "emoji":"♻️",
+            "entity":"&#x267b;",
+            "code":":recycle:",
+            "description":"Refactor code",
+            "name":"recycle",
+            "semver":"patch"
+        },
+        {
+            "emoji":"✅",
+            "entity":"&#x2705;",
+            "code":":white_check_mark:",
+            "description":"Add or update tests",
+            "name":"white_check_mark",
+            "semver":null
+        },
+        {
+            "emoji":"📈",
+            "entity":"&#x1F4C8;",
+            "code":":chart_with_upwards_trend:",
+            "description":"Coverage code",
+            "name":"chart_with_upwards_trend",
+            "semver":null
+        },
+        {
+            "emoji":"⚖️",
+            "entity":"&#x2696;",
+            "code":":balance_scale:",
+            "description":"Assertions",
+            "name":"balance_scale",
+            "semver":null
+        },
+        {
+            "emoji":"💡",
+            "entity":"&#128161;",
+            "code":":bulb:",
+            "description":"Add or update comments in source code",
+            "name":"bulb",
+            "semver":null
+        },
+        {
             "emoji":"🎨",
             "entity":"&#x1f3a8;",
             "code":":art:",
@@ -14,6 +126,94 @@
             "code":":memo:",
             "description":"Add or update documentation",
             "name":"memo",
+            "semver":null
+        },
+        {
+            "emoji":"👥",
+            "entity":"&#128101;",
+            "code":":busts_in_silhouette:",
+            "description":"Add or update contributors",
+            "name":"busts_in_silhouette",
+            "semver":null
+        },
+        {
+            "emoji":"📄",
+            "entity":"&#1F4C4;",
+            "code":":page_facing_up:",
+            "description":"Add or update license",
+            "name":"page_facing_up",
+            "semver":null
+        },
+        {
+            "emoji":"🔥",
+            "entity":"&#x1f525;",
+            "code":":fire:",
+            "description":"Remove code or files",
+            "name":"fire",
+            "semver":"patch"
+        },
+        {
+            "emoji":"🚚",
+            "entity":"&#1F69A;",
+            "code":":truck:",
+            "description":"Move or rename files",
+            "name":"truck",
+            "semver":null
+        },
+        {
+            "emoji":"⬆️",
+            "entity":"⬆️",
+            "code":":arrow_up:",
+            "description":"Update submodules",
+            "name":"arrow_up",
+            "semver":null
+        },
+        {
+            "emoji":"🔀",
+            "entity":"&#128256;",
+            "code":":twisted_rightwards_arrows:",
+            "description":"Merge branches",
+            "name":"twisted_rightwards_arrows",
+            "semver":"patch"
+        },
+        {
+            "emoji":"➕",
+            "entity":"&#10133;",
+            "code":":heavy_plus_sign:",
+            "description":"Add a dependency / submodule",
+            "name":"heavy_plus_sign",
+            "semver":null
+        },
+        {
+            "emoji":"➖",
+            "entity":"&#10134;",
+            "code":":heavy_minus_sign:",
+            "description":"Remove a dependency / submodule",
+            "name":"heavy_minus_sign",
+            "semver":null
+        },
+        {
+            "emoji":"🔨",
+            "entity":"&#128296;",
+            "code":":hammer:",
+            "description":"Add or update development scripts",
+            "name":"hammer",
+            "semver":null
+        },
+        {
+            "emoji":"👷",
+            "entity":"&#x1f477;",
+            "code":":construction_worker:",
+            "description":"Add or update CI build system",
+            "name":"construction_worker",
+            "semver":null
+        },
+        {
+            "emoji":"🙈",
+            "entity":"&#8bdfe7;",
+            "code":":see_no_evil:",
+            "description":"Add or update a .gitignore file",
+            "name":"see_no_evil",
             "semver":null
         }
     ]
