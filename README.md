@@ -23,6 +23,7 @@ Once you have done it, execute `gitmoji update`. If you see the following messag
 - 🚧  - General RTL development
 - ✨  - Introduce new features
 - 🐛  - Fix a bug
+- 🧩  - RTL integration
 - 🚨  - Fix compiler / linter warnings
 - ⚡️  - Timing / area optimizations
 - 🔧  - Change configuration parameters / macros

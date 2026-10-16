@@ -97,6 +97,14 @@
             "semver": null
         },
         {
+            "emoji": "🧩",
+            "entity": "&#x1F9E9;",
+            "code": ":jigsaw:",
+            "description": "RTL integration",
+            "name": "jigsaw",
+            "semver": null
+        },
+        {
             "emoji":"📈",
             "entity":"&#x1F4C8;",
             "code":":chart_with_upwards_trend:",
