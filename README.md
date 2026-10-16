@@ -27,15 +27,18 @@ Once you have done it, execute `gitmoji update`. If you see the following messag
 - ⚡️  - Timing / area optimizations
 - 🔧  - Change configuration parameters / macros
 - 🚑️  - Critical hotfix
-- 🩹  - Upload a patch (diff)
+- 🩹  - Temporary workaround
 - ⚗️  - Perform experiments
 - ♻️  - Refactor code
 
 ### Verification
 
 - ✅  - Add or update tests
+- 🐍  - CocoTB tests
 - 📈  - Coverage code
 - ⚖️  - Assertions
+- 📐  - Formal verification code
+- 🔉  - Trace log generation
 
 ### HDL styling changes
 - 💡  - Add or update comments in source code

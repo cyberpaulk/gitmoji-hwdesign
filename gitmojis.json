@@ -60,7 +60,7 @@
             "emoji":"🩹",
             "entity":"&#x1FA79;",
             "code":":adhesive_bandage:",
-            "description":"Upload a patch (diff)",
+            "description":"Temporary workaround",
             "name":"adhesive_bandage",
             "semver":"patch"
         },
@@ -89,6 +89,14 @@
             "semver":null
         },
         {
+            "emoji": "🐍",
+            "entity": "&#x1F40D;",
+            "code": ":snake:",
+            "description": "CocoTB tests",
+            "name": "snake",
+            "semver": null
+        },
+        {
             "emoji":"📈",
             "entity":"&#x1F4C8;",
             "code":":chart_with_upwards_trend:",
@@ -103,6 +111,22 @@
             "description":"Assertions",
             "name":"balance_scale",
             "semver":null
+        },
+        {
+            "emoji": "📐",
+            "entity": "&#x1F4D0;",
+            "code": ":triangular_ruler:",
+            "description": "Formal verification code",
+            "name": "triangular_ruler",
+            "semver": null
+        },
+        {
+            "emoji": "🔊",
+            "entity": "&#x1F50A;",
+            "code": ":loud_sound:",
+            "description": "Trace log generation",
+            "name": "loud_sound",
+            "semver": null
         },
         {
             "emoji":"💡",
